@@ -1,0 +1,3 @@
+/Users/shijiacheng/workspace/RickTestC/build/CMakeFiles/hello.dir
+/Users/shijiacheng/workspace/RickTestC/build/CMakeFiles/edit_cache.dir
+/Users/shijiacheng/workspace/RickTestC/build/CMakeFiles/rebuild_cache.dir
